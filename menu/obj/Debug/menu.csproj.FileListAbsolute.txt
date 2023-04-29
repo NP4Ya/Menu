@@ -1,0 +1,8 @@
+D:\ВУЗ\Website\GitHub\Menu\menu\bin\Debug\menu.exe.config
+D:\ВУЗ\Website\GitHub\Menu\menu\bin\Debug\menu.exe
+D:\ВУЗ\Website\GitHub\Menu\menu\bin\Debug\menu.pdb
+D:\ВУЗ\Website\GitHub\Menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\ВУЗ\Website\GitHub\Menu\menu\obj\Debug\menu.csproj.SuggestedBindingRedirects.cache
+D:\ВУЗ\Website\GitHub\Menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Website\GitHub\Menu\menu\obj\Debug\menu.exe
+D:\ВУЗ\Website\GitHub\Menu\menu\obj\Debug\menu.pdb
