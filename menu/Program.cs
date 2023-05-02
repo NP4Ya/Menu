@@ -35,6 +35,10 @@ namespace Plus
                     v = b / c;
                     Console.WriteLine($"Ответ: {v}");
                     break;
+                case 5:
+                    v = b % c;
+                    Console.WriteLine($"Ответ: {v}");
+                    break;
             }
             Console.ReadKey();
         }
